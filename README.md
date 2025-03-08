@@ -9,7 +9,7 @@ A simple and interactive **Tic Tac Toe** game built using **JavaScript, HTML, an
 - 🔄 **Restart button** – Reset the game anytime.
 
 ## 📌 Live Demo
-[Play the Tic Tac Toe Game](https://tic-tac-toe.vercel.app/)
+[Play the Tic Tac Toe Game](https://tic-tac-toe-game-one-puce.vercel.app/)
 
 ## 🚀 Technologies Used
 - **HTML** – Structure of the game.
